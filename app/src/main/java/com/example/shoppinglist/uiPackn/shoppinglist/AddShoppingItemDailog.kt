@@ -2,10 +2,8 @@ package com.example.shoppinglist.uiPackn.shoppinglist
 
 import android.content.Context
 import android.os.Bundle
-import android.view.LayoutInflater
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatDialog
-import com.example.shoppinglist.R
 import com.example.shoppinglist.data.db.entity.ShoppingItem
 import com.example.shoppinglist.databinding.DailogListBinding
 
